@@ -2,14 +2,25 @@
 <rss version= "2.0">
 	<channel>
 		<item>
-			<title> pokus 111111</title>
-			<description> bla bla bla </description>
+			<title> Zapojte se do sázení stromů pod hradem Kost</title>
+			<description> Pokud si stále držíte své dobrovolnické dny v záloze, přichází ideální příležitost pro jejich využití! </description>
 			<link>http://youwebsite.com/xml-articles.htm</link>
 		</item>
 		<item>
-			<title> Wpokus 2222 </title>
-			<description> Kajfvbslvdlvdvfdvlfnv</description>
-		<link>http://yourwebsite.com/</link>
+			<title> Tepláková sbírka pro Sulickou </title>
+			<description> Máte doma nepotřebné (leč neroztrhané) sportovní a volnočasové oblečení – tepláky, trička, mikiny, legíny? Pojďte si společně uvolnit místo v šatníku a zároveň udělat něco pro dobrou věc!</description>
+			<link>http://yourwebsite.com/</link>
+		</item>
+		<item>
+			<title> Charitativní pečení netradičně v úterý</title>
+			<description>Těšit se můžete v úterý 29. října od 7:30 do 9:00 v prostorách recepce pražské centrály. </description>
+			<link>http://youwebsite.com/xml-articles.htm</link>
+		</item>
+		<item>
+			<title> Prodáváme další vyřazená služební vozidla
+</title>
+			<description> Připravujeme pro vás další e-aukci vyřazených služebních vozidel za výhodné tržní ceny. </description>
+			<link>http://youwebsite.com/xml-articles.htm</link>
 		</item>
 	</channel>
 </rss>
